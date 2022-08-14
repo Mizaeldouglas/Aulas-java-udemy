@@ -1,4 +1,5 @@
 package entities;
 
-public class Shape {
+public interface Shape {
+	double area();
 }
